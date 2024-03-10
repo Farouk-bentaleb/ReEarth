@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>icons/about.png</file>
+        <file>icons/back.png</file>
+        <file>icons/back2.png</file>
+        <file>icons/back3.png</file>
+        <file>icons/chat.png</file>
+        <file>icons/contact.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/home.png</file>
+        <file>icons/optionss.png</file>
+        <file>icons/Polygone.png</file>
+        <file>icons/Q.png</file>
+        <file>icons/send 1.1.png</file>
+        <file>icons/send 1.2.png</file>
+        <file>icons/unknown.png</file>
+        <file>icons/left.png</file>
+        <file>icons/right.png</file>
+        <file>icons/left_clk.png</file>
+        <file>icons/right_clk.png</file>
+        <file>icons/box.png</file>
+        <file>icons/address.png</file>
+        <file>icons/location.png</file>
+        <file>icons/name.png</file>
+        <file>icons/phone.png</file>
+        <file>icons/website.png</file>
+        <file>icons/at.png</file>
+    </qresource>
+    <qresource prefix="/new/img">
+        <file>img/bg.jpg</file>
+        <file>img/home1.2.png</file>
+        <file>img/logo1.png</file>
+        <file>img/signin.png</file>
+        <file>img/3.png</file>
+    </qresource>
+    <qresource prefix="/new/logo">
+        <file>logo/logo.png</file>
+        <file>logo/devnexus.png</file>
+    </qresource>
+</RCC>
